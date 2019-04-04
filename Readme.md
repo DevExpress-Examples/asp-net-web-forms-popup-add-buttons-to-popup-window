@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [Default.aspx](./CS/PopupInputForm/Default.aspx) (VB: [Default.aspx](./VB/PopupInputForm/Default.aspx))
-* [Default.aspx.cs](./CS/PopupInputForm/Default.aspx.cs) (VB: [Default.aspx](./VB/PopupInputForm/Default.aspx))
+* [Default.aspx.cs](./CS/PopupInputForm/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/PopupInputForm/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxPopupControl - How to implement OK and Cancel buttons for a modal popup window
 
