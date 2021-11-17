@@ -14,7 +14,7 @@ This example demonstrates how to add buttons to a Popup Control's window.
 
 ## Overview
 
-In this example, a pop-up window contains a [textbox](https://docs.devexpress.com/AspNet/11586/components/data-editors/textbox) editor and **OK** and **Cancel** [buttons](https://docs.devexpress.com/AspNet/11620/components/data-editors/button). The **Cancel** button processes the [Click](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxButton.Click?p=netframework) event on the server, while the **OK** button processes its [Click](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxButton.Click?p=netframework) event both on the server and client.
+In this example, a pop-up window contains a [textbox](https://docs.devexpress.com/AspNet/11586/components/data-editors/textbox) editor with **OK** and **Cancel** [buttons](https://docs.devexpress.com/AspNet/11620/components/data-editors/button). The **Cancel** button processes the [Click](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxButton.Click?p=netframework) event on the server, while the **OK** button processes its [Click](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxButton.Click?p=netframework) event on the server and client.
 
 <!-- default file list -->
 ## Files to Look At
