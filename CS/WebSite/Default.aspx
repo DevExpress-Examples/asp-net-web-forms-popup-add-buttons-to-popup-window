@@ -36,9 +36,9 @@
                                     <dx:ASPxButton ID="btnOK" runat="server" AutoPostBack="False" Text="OK" Width="80px"
                                         OnClick="btnOK_Click">
                                         <ClientSideEvents Click="function(s, e) { popupControl.Hide();
-                                                // client-side processing is here
+                                                // Processes data on the client
                                                 e.processOnServer = true;
-                                                // do some processing at the server side
+                                                // Processes data on the server
                                             }" />
                                     </dx:ASPxButton>
                                 </td>

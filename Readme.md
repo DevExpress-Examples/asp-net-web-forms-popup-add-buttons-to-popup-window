@@ -3,21 +3,32 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E493)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
-
-* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
-* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
-<!-- default file list end -->
-# ASPxPopupControl - How to implement OK and Cancel buttons for a modal popup window
+# Popup Control for ASP.NET Web Forms - How to add buttons to a pop-up window
 <!-- run online -->
 **[[Run Online]](https://codecentral.devexpress.com/e493/)**
 <!-- run online end -->
 
+This example demonstrates how to add buttons to a Popup Control's window.
 
-<p>This example demonstrates how to add OK and Cancel buttons to a popup window of the ASPxPopupControl. It shows how to process new data when the OK button is pressed, and how to close the popup window without saving anything, when Cancel is pressed.</p><p><strong>See Also:</strong><br />
-<a href="https://www.devexpress.com/Support/Center/p/E499">How to show and hide a popup window via server side code</a></p>
+![Add buttons to a popup window](add-buttons-to-a-popup-window.png)
 
-<br/>
+## Overview
 
+In this example, a pop-up window contains a [textbox](https://docs.devexpress.com/AspNet/11586/components/data-editors/textbox) editor and **OK** and **Cancel** [buttons](https://docs.devexpress.com/AspNet/11620/components/data-editors/button). The **Cancel** button processes the [Click](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxButton.Click?p=netframework) event on the server, while the **OK** button processes its [Click](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxButton.Click?p=netframework) event both on the server and client.
 
+<!-- default file list -->
+## Files to Look At
+
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+<!-- default file list end -->
+
+## Documentation
+
+- [How to: Show the Default Window](https://docs.devexpress.com/AspNet/115457/components/docking-and-popups/popup-control/popup-windows/default-window)
+- [How to: Show and Hide Windows](https://docs.devexpress.com/AspNet/115458/components/docking-and-popups/popup-control/popup-windows/manipulating-windows)
+
+## More Examples
+
+- [Popup Control for ASP.NET Web Forms - How to show and hide a pop-up window on the server side](https://supportcenter.devexpress.com/internal/ticket/details/E499)
+- [Popup Control for ASP.NET Web Forms - How to show the Popup Control](https://supportcenter.devexpress.com/internal/ticket/details/E55)
