@@ -1,8 +1,10 @@
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebSite\", "WebSite\", "{E7100136-FDA4-46DF-B114-8F6ECC7C2DF8}"
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebSite", "WebSite\", "{E7100136-FDA4-46DF-B114-8F6ECC7C2DF8}"
 	ProjectSection(WebsiteProperties) = preProject
-        TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
 		Debug.AspNetCompiler.VirtualPath = "/WebSite"
 		Debug.AspNetCompiler.PhysicalPath = "WebSite\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\WebSite\"
@@ -18,6 +20,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebSite\", "WebSite\", "{E7
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "2101"
+		SlnRelativePath = "WebSite\"
 	EndProjectSection
 EndProject
 Global
@@ -30,5 +33,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC3851F9-65EF-4321-8CA5-3D4B258F0E00}
 	EndGlobalSection
 EndGlobal
