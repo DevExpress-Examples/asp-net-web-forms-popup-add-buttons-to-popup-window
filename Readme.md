@@ -31,7 +31,7 @@ In this example, a pop-up window contains a [textbox](https://docs.devexpress.co
 - [Popup Control for ASP.NET Web Forms - How to show and hide a pop-up window on the server side](https://supportcenter.devexpress.com/internal/ticket/details/E499)
 - [Popup Control for ASP.NET Web Forms - How to show the Popup Control](https://supportcenter.devexpress.com/internal/ticket/details/E55)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-popup-add-buttons-to-popup-window&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-popup-add-buttons-to-popup-window&~~~was_helpful=no)
 
