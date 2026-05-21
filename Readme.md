@@ -28,8 +28,8 @@ In this example, a pop-up window contains a [textbox](https://docs.devexpress.co
 
 ## More Examples
 
-- [Popup Control for ASP.NET Web Forms - How to show and hide a pop-up window on the server side](https://supportcenter.devexpress.com/internal/ticket/details/E499)
-- [Popup Control for ASP.NET Web Forms - How to show the Popup Control](https://supportcenter.devexpress.com/internal/ticket/details/E55)
+- [Popup Control for ASP.NET Web Forms - How to show and hide a pop-up window on the server side](https://supportcenter.devexpress.com/ticket/details/E499)
+- [Popup Control for ASP.NET Web Forms - How to show the Popup Control](https://supportcenter.devexpress.com/ticket/details/E55)
 <!-- feedback -->
 ## Does This Example Address Your Development Requirements/Objectives?
 
